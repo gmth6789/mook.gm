@@ -1,6 +1,6 @@
 <template>
 <div>
-  			<div class="container container24325">
+  	
 				<div class="flex diygw-col-24 diygw-bottom">
 					<div class="diygw-grid diygw-actions">
 						<button class="diygw-action">
@@ -48,7 +48,7 @@
 						</button>
 					</div>
 				</div>
-        </div>
+  
 </template>
 
 <style>
